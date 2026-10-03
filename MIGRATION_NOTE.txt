@@ -1,0 +1,2 @@
+Copy ELV_Project_Manager.py and Start_ELV_Project_Manager.bat beside your existing ELV_Inventory_Data folder.
+Do not replace Inventory.xlsx or InventoryUsers.db.
